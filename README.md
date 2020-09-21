@@ -1,4 +1,4 @@
-# 3DGame
+# Don't Hit The Obstacles!
 
 To Play Game: 
 
